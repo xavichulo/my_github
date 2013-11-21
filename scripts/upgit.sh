@@ -14,7 +14,7 @@
 		 
 		 # Ahora comprobamos si se le paso algun parametro
 		 if [ $# == 0 ]; then
-		 	echo "UpToGit: ¡Error! No se le a pasado ningún parámetro"
+		 	echo "UpToGit: ¡Error! No se le ha pasado ningún parámetro"
 				echo "uptogit fichero1 fichero2 ... ficheroN"
 					exit -1
 					else
